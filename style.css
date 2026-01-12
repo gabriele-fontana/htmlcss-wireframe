@@ -1,9 +1,9 @@
-#title {
+.title {
     padding: 3px;
     border-bottom:3px solid black;
 }
 
-#page {
+.page {
     border:0px;
     margin:0px;
     width: 512px;
@@ -15,10 +15,10 @@
     width:440px ;
 
 }
-#footer{
+.footer{
     border-top: 3px solid black;
 }
 
-#box_section{
+.box_section{
     padding: 10px;
 }
