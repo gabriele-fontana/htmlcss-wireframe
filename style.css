@@ -1,14 +1,14 @@
 .title {
-    padding: 3px;
+    padding: 3px;                     /* title padding and bottom border */
     border-bottom:3px solid black;
 }
 
-.page {
+.page {                               /* set page width reset page border and margin */
     border:0px;
     margin:0px;
     width: 512px;
 }
-.box {
+.section {                          /* set section width and borders add padding and margin */
     border: 2px solid black;
     margin: 10px ;
     padding:4px;
@@ -16,9 +16,9 @@
 
 }
 .footer{
-    border-top: 3px solid black;
+    border-top: 3px solid black; /* set top border */
 }
 
-.box_section{
+.main{ /* set  */
     padding: 10px;
 }
